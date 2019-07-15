@@ -1,0 +1,45 @@
+body{
+	background: #121216;
+}
+#color{
+	font-size: 3rem;
+}
+h1{
+	color:white;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Old Standard TT', serif;
+	background: black;
+	height: 150px;
+	font-size: 2rem;
+	margin-bottom: 0;
+
+	font-weight: bold;
+}
+.square{
+	width: 30%;
+	padding-bottom: 30%;
+	background: blue;
+	float: left;
+	margin: 1.66%;
+}
+.container{
+	margin: 0 auto;
+	max-width: 600px;
+}
+.messagestrip{
+	background: white;
+	text-align: center;
+}
+.press{
+	border: none;
+	background: none;
+}
+#message{
+	width: 20%;
+	display: inline-block;
+}
+button:hover{
+	background-color: #1460db;
+	color:white;
+}
